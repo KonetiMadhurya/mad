@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m 'commit'
+git remote add origin <github link>
+git branch -M main
+git push -u origin main
